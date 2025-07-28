@@ -11,6 +11,6 @@ pip install -r requirements.txt
 
 
 ### Бот в Telegram:
-[@your_bot_username](https://t.me/your_bot_username)
+[@QuizGameSarBot](https://t.me/QuizGameSarBot)
 
 
